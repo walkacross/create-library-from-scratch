@@ -10,6 +10,6 @@ import datetime
 def hello_world():
     "hello world print"
     today = datetime.date.today()
-    to_string =  "hello world in {}".format(to_string)
+    to_string =  "hello world in {}".format(today)
     print(to_string)
     return to_string 

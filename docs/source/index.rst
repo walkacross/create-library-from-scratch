@@ -6,7 +6,7 @@
 =======================================================
 create-library-from-scratch's Documentation
 =======================================================
-.. image:: ![hello-world](https://github.com/walkacross/create-library-from-scratch/workflows/hello-world/badge.svg)
+.. image:: https://github.com/walkacross/create-library-from-scratch/workflows/hello-world/badge.svg
 
 
 the create-library-from-scratch is to show how to create a production ready library from scratch.
@@ -24,7 +24,7 @@ step 0.2: add CI                         add the continuous integration(CI) with
 step 0.3: add online docs                add professional documents by using `sphinx theme`_ and hosted in `readthedoc.com`_
 step 0.4: make it be a library           add setup.py, requirements and your first function in your library
 step 0.5: package and publication        package and make publication in PYPI
-======================    =================================================================================
+=====================================    =====================================================================================
 
 Philosophy
 ============================

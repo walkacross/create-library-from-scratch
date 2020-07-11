@@ -36,8 +36,8 @@ the create-library-from-scratch focuses on production ready library, viewing CI,
 .. _readthedoc.com: https://readthedocs.org/
 
 .. toctree::
-    :caption:basics
-    :hidden
+    :caption: basics
+    :hidden:
     
     intro/overview
     intro/install

@@ -12,3 +12,9 @@ example                    examples
 tutorials                  tutorials
 CI                         coninuous integration
 ======================    =================================================================================
+
+function
+*********
+
+.. py:currentmodule:: my-library.functions
+.. autofunction:: hello_world

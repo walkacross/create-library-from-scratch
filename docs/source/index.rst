@@ -42,4 +42,9 @@ the create-library-from-scratch focuses on production ready library, viewing CI,
     intro/overview
     intro/install
 
-
+.. toctree::
+    :caption: API
+    :hidden:
+    
+    intro/overview
+    intro/install

@@ -16,5 +16,5 @@ CI                         coninuous integration
 function
 *********
 
-.. py:currentmodule:: my-library.functions
+.. py:currentmodule:: my_library.functions
 .. autofunction:: hello_world

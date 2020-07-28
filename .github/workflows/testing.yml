@@ -18,7 +18,9 @@ jobs:
         python-version: [3.5, 3.6, 3.7, 3.8]
 
     steps:
-    - uses: actions/checkout@v2
+    - name: git checkout
+      uses: actions/checkout@v2
+    - name: check the working directory
       run: pwd
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v2
